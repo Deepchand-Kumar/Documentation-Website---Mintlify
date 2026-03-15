@@ -99,5 +99,5 @@ Documentation Website - Mintlify/
 │
 ├── index.html
 ├── style.css
-├── assets
+├── images
 └── README.md
